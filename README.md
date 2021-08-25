@@ -16,3 +16,7 @@ I separated these changes out into three main components:
 I tried to limit the amount of state that each component tracks and split out changes into different components where I saw possible.
 
 I also made use of hooks and functional components in keeping with the latest React standards.
+
+I added in some basic unit tests to test some of the app functionality. To run these tests, run `yarn test`:
+- the Prev and Next pagination buttons are inactive when on the first or last page, respectively
+- Clicking the Save button triggers the save function and API call
