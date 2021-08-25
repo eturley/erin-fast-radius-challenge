@@ -6,6 +6,9 @@ In one terminal window, pull down the [server code](https://github.com/fast-radi
 
 In a different terminal window, pull down these changes and run `yarn start`. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+<img width="489" alt="Screen Shot 2021-08-24 at 8 55 43 PM" src="https://user-images.githubusercontent.com/16483507/130724033-ffe9739c-ae9d-4515-ae16-513d02d41d53.png">
+
+
 ### Design Decisions
 
 I separated these changes out into three main components: 
